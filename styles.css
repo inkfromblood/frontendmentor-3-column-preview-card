@@ -81,6 +81,13 @@ p {
   cursor: pointer;
   font-family: 'Lexend Deca';
   font-size: 15px;
+    border: 2px solid white;
+}
+
+.button:hover {
+  background-color: inherit;
+  border: 2px solid white;
+  color: white;
 }
 
 @media only screen and (max-width: 700px) {
